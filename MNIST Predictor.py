@@ -7,7 +7,7 @@
 
 
 from sklearn.datasets import fetch_openml
-get_ipython().run_line_magic('matplotlib', 'inline')
+#get_ipython().run_line_magic('matplotlib', 'inline')
 from matplotlib import pyplot as plt
 import matplotlib
 import numpy as np
